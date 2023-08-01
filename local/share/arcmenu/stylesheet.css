@@ -1,0 +1,94 @@
+
+        .arcmenu-menu{
+            font-size: 11pt;
+            color: rgb(205,214,244);
+        }
+        .arcmenu-menu .popup-menu-content {
+            background-color: rgb(30,30,46);
+            border-color: rgb(24,24,37);
+            border-width: 2px;
+            border-radius: 14px;
+        }
+        .arcmenu-menu StButton {
+            color: rgb(205,214,244);
+            background-color: rgb(30,30,46);
+            border-width: 0px;
+            box-shadow: none;
+            border-radius: 8px;
+        }
+        .arcmenu-menu StScrollBar StButton#vhandle, .arcmenu-menu StScrollBar StButton#hhandle {
+            background-color: rgba(60, 60, 92, 1.00);
+        }
+        .arcmenu-menu StScrollBar StButton#vhandle:hover, .arcmenu-menu StScrollBar StButton#hhandle:hover {
+            background-color: rgba(70, 70, 108, 1.00);
+        }
+        .arcmenu-menu StScrollBar StButton#vhandle:active, .arcmenu-menu StScrollBar StButton#hhandle:active {
+            background-color: rgba(80, 80, 123, 1.00);
+        }
+        .arcmenu-menu .popup-menu-item {
+            color: rgb(205,214,244);
+        }
+        .arcmenu-menu .popup-menu-item:focus, .arcmenu-menu .popup-menu-item:hover,
+        .arcmenu-menu .popup-menu-item:checked, .arcmenu-menu .popup-menu-item.selected,
+        .arcmenu-menu StButton:focus, .arcmenu-menu StButton:hover, .arcmenu-menu StButton:checked {
+            color: rgb(255,255,255);
+            background-color: rgb(21,83,158);
+        }
+        .arcmenu-menu .popup-menu-item:active, .arcmenu-menu StButton:active {
+            color: rgb(255,255,255);
+            background-color: rgb(25,98,163);
+        }
+        .arcmenu-menu .popup-menu-item:insensitive{
+            color: rgba(205, 214, 244, 0.6);
+            font-size: 9pt;
+        }
+        .arcmenu-menu .world-clocks-header, .arcmenu-menu .world-clocks-timezone,
+        .arcmenu-menu .weather-header{
+            color: rgba(205, 214, 244, 0.6);
+        }
+        .arcmenu-menu .world-clocks-time, .arcmenu-menu .world-clocks-city{
+            color: rgb(205,214,244);
+        }
+        .arcmenu-menu .weather-forecast-time{
+            color: rgba(163, 180, 235, 1.00);
+        }
+        .arcmenu-menu .popup-separator-menu-item .popup-separator-menu-item-separator{
+            background-color: rgba(255,255,255,0.1);
+        }
+        .arcmenu-menu .popup-separator-menu-item StLabel{
+            color: rgb(205,214,244);
+        }
+        .separator-color-style{
+            background-color: rgba(255,255,255,0.1);
+        }
+        .arcmenu-menu StEntry{
+            font-size: 11pt;
+            border-color: rgba(255, 255, 255, 0.1);
+            color: rgb(205,214,244);
+            background-color: rgba(50, 50, 77, 0.4);
+        }
+        .arcmenu-menu StEntry:hover{
+            border-color: rgb(21,83,158);
+            background-color: rgba(60, 60, 92, 0.4);
+        }
+        .arcmenu-menu StEntry:focus{
+            border-color: rgb(25,98,163);
+            background-color: rgba(70, 70, 108, 0.4);
+        }
+        .arcmenu-menu StLabel.hint-text{
+            color: rgba(205, 214, 244, 0.6);
+        }
+        #ArcMenu_Tooltip{
+            font-size: 11pt;
+            color: rgb(205,214,244);
+            background-color: rgba(55, 55, 85, 1);
+            border: 1px solid rgba(29, 29, 45, 1.00);
+        }
+        .arcmenu-menu .user-icon{
+            border-color: rgba(205, 214, 244, 0.7);
+        }
+        .arcmenu-menu-button{
+                                color: rgb(61,174,233);
+                            }#ArcMenuSearchEntry{
+                                border-radius: 25px;
+                            }

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="codium.desktop" score="21" last-seen="1690807230"/>
+    <application id="menulibre.desktop" score="1" last-seen="1690804444"/>
+    <application id="org.gnome.Nautilus.desktop" score="25" last-seen="1690909811"/>
+    <application id="org.gnome.Settings.desktop" score="21" last-seen="1690909641"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="155" last-seen="1690909369"/>
+    <application id="firefox.desktop" score="185" last-seen="1690909342"/>
+    <application id="org.gnome.Terminal.desktop" score="61" last-seen="1690808510"/>
+    <application id="org.gnome.Software.desktop" score="0" last-seen="1690804558"/>
+    <application id="com.raggesilver.BlackBox.desktop" score="23" last-seen="1690909692"/>
+    <application id="org.gnome.Extensions.desktop" score="4" last-seen="1690909241"/>
+    <application id="org.gnome.tweaks.desktop" score="12" last-seen="1690908987"/>
+    <application id="org.freedesktop.GnomeAbrt.desktop" score="0" last-seen="1690908859"/>
+    <application id="org.gnome.TextEditor.desktop" score="32" last-seen="1690909812"/>
+    <application id="org.gnome.Rhythmbox3.desktop" score="10" last-seen="1690808714"/>
+  </context>
+</application-state>
